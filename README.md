@@ -3,7 +3,9 @@
 ### Universidade Federal Rural de Pernambuco  
 **Departamento de Estatística e Informática**  
 **Bacharelado em Sistemas de Informação**  
-**Disciplina: Princípios de Programação**
+**Disciplina: Princípios de Programação**  
+**Aluno: Pedro Ailton Alves da Cunha**  
+**Data de Entrega: 16/07/25**
 
 ---
 
@@ -38,6 +40,33 @@ Você deve melhorar o código existente, que atualmente possui as classes `Perso
 - Criar um sistema de registro de ações para acompanhar o histórico dos eventos do jogo.
 - **Use sua imaginação para elaborar diálogos, métodos que sirvam para interagir e use o código base já disponível como exemplo para expandi-lo. Não precisa manter os métodos que já existem, você pode alterá-los à vontade**.
 
+## **Como Executar o Código**
+
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/profcvanut/improve-this-game.git
+   ```
+2. Acesse a pasta do projeto:
+   ```sh
+   cd improve-this-game
+   ```
+3. Execute o jogo:
+   ```sh
+   python main.py
+   ```
+
+## **Contribuição**
+
+Caso tenha sugestões ou melhorias, fique à vontade para abrir uma **issue** ou fazer um **pull request**.
+
+---
+
+🚀 **Divirta-se programando e aprimorando este jogo!**
+
+# **SOLUÇÃO**
+
+O Exímio Herói: A Acenção do Herói. Um jogo que utiliza todos os conceitos desenvolvidos em sala na disciplina de Princípios de Programação em python, jogado no terminal.
+
 ## **Arquivos do Projeto**
 
 O projeto contém os seguintes arquivos:
@@ -62,12 +91,3 @@ O projeto contém os seguintes arquivos:
    ```sh
    python main.py
    ```
-
-## **Contribuição**
-
-Caso tenha sugestões ou melhorias, fique à vontade para abrir uma **issue** ou fazer um **pull request**.
-
----
-
-🚀 **Divirta-se programando e aprimorando este jogo!**
-
