@@ -1,0 +1,15 @@
+1. Deve haver um menu inicial que vai permitir que iniciemos o jogo: escolhendo o herói('O exímio') para usarmos: espadachim, arqueiro ou herói (devem aparecer os detalhes de cada um);
+
+2. O narrador vai contar a história do jogo, que vai se adentrar no fim da jornada de Sigma, um grupo de heróis cuja espeança era trazer de volta ao reino o fetuo amaldiçoado, filho da rainha Aurora, a fim de quebrar a maldição e retomá-lo aos braços sua mãe.
+
+3. Próximo ao reino, se deparam com O Grande, um mago da raça gigante, com um manto que cobre todo o seu corpo e emana escuridão, na porta, que os embosca e os oblitera.
+
+4. O fetuo fica intacto, após a explosão de magia causada pelo O Grande.
+
+5. Apesar da grande força de O Grande, perdeu seu braço na batalha.
+
+6. O Grande se esconde na vila de Hein, em meio à grande floresta do Reino.
+
+7. Exímio ganha energia suficiente para despertar
+
+8. Lembra do carinho que recebeu dos heróis durante o caminho até a volta para casa, e agora tem vingança em seus olhos.
